@@ -3,7 +3,7 @@
 **Program:** D.U.T RIS/ID  
 **Course Element:** Algorithmique et Programmation C  
 **Teacher:** Y. Rachidi  
-**Work:** Travaux Dirigés (TD) — 1  
+**Work:** Travaux Dirigés (TD) — 2
 
 ## 📌 Exercises
 1. Input 5 real numbers, store in an array, compute sum, display values + sum.
